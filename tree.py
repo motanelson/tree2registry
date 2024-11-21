@@ -36,7 +36,7 @@ for n in source:
               d=d+"\\"+h
           l+=1
      if len(lines)>1:
-         d=d+line[1]+"\n"
+         d=d+"="+lines[1]+"\n"
      else:
          d=d+"\n"
 

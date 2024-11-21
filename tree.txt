@@ -1,13 +1,13 @@
 root
  dir1
-  diraaa
-  dirbbb
-  dirccc
+  diraaa=0
+  dirbbb=1
+  dirccc=3
  dir2
-  diraaa
-  dirbbb
-  dirccc
+  diraaa=4
+  dirbbb=5
+  dirccc=6
  dir3
-  diraaa
-  dirbbb
-  dirccc
+  diraaa=7
+  dirbbb=8
+  dirccc=9
